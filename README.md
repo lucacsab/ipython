@@ -1,11 +1,11 @@
-#### IPython for bioinformatics
+## IPython for bioinformatics
 
-## Shareable
+#### Shareable
   - https://github.com/jupyterhub/jupyterhub
   
-## Make slideshows
+#### Make slideshows
   - https://github.com/Anaconda-Platform/nbpresent
   
-## Widgets
+#### Widgets
    - https://ipywidgets.readthedocs.io/en/latest/examples/Widget%20Basics.html
   
